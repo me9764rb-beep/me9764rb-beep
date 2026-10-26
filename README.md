@@ -9,6 +9,7 @@
 פרויקטים שנמצאים בשימוש ובתחזוקה שוטפת.
 
 - **[רובוקס גראז — Robox Garage](https://robox-mosakdaniel.com)** · [מאגר GitHub](https://github.com/me9764rb-beep/robox-garage)
+- **[רשימת קניות — Shopping List](https://shopping-list-two-taupe.vercel.app)**
 
 ---
 
